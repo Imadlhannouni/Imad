@@ -1,72 +1,65 @@
 <!-- ======================= CONFIG (invisible) ======================= 
 PROFILE_NAME=Imad Lhannouni
-PROFILE_USERNAME=your-username
-PROFILE_EMAIL=you@example.com
-PROFILE_LINKEDIN=linkedin-handle
+PROFILE_USERNAME=Imadlhannouni
+PROFILE_EMAIL=lhannouni05@gmail.com
+PROFILE_LINKEDIN=https://www.linkedin.com/in/imad-lhannouni-b2429a340/
 
-PROFILE_ROLE=Software Engineering Student @1337 (42 Network)
-PROFILE_TAGLINE=I love solving problems and building visible, impactful projects.
-PROFILE_GOAL=Create my own company.
-PROFILE_NOW=Working on J2EE Club Manager, GMod Addons, and QR Generator.
+PROFILE_ROLE=Software Engineering Student @1337 (42 Network) · Aspiring DevOps Engineer
+PROFILE_TAGLINE=Learning DevOps fundamentals (Linux, Docker, Kubernetes, CI/CD).
+PROFILE_GOAL=Build a strong DevOps foundation to launch my own company and deliver scalable, cloud-native solutions.
+PROFILE_NOW=Working on 42 Projects. Practicing DevOps pipelines and containerization on KodeKloud.
 
-PROJECT1_NAME=QR Generator
-PROJECT1_DESC=Responsive website to generate, manage, and validate QR codes.
-PROJECT1_LINK=https://github.com/your-username/qr-generator
+PROJECT1_NAME=Minishell
+PROJECT1_DESC=Unix-like shell implementation from scratch (C, processes, pipes, signals).
+PROJECT1_LINK=https://github.com/ilhannou/42-minishell
 
-PROJECT2_NAME=Club Manager
-PROJECT2_DESC=School club management app with events & admin panel (J2EE).
-PROJECT2_LINK=https://github.com/your-username/club-manager
-
-PROJECT3_NAME=GMod Auras
-PROJECT3_DESC=Visual/audio aura effects addon for Garry’s Mod.
-PROJECT3_LINK=https://github.com/your-username/gmod-auras
+PROJECT2_NAME=Born2beroot
+PROJECT2_DESC=System administration & virtualization project focusing on Linux security, users, and services.
+PROJECT2_LINK=https://github.com/ilhannou/42-born2beroot
 ====================================================================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&pause=1200&center=true&vCenter=true&width=820&lines=Hi%2C+I'm+Imad+Lhannouni+%F0%9F%91%8B;Software+Engineering+Student+%4042;I+love+solving+problems+and+building+impactful+projects" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&pause=1200&center=true&vCenter=true&width=820&lines=Hi%2C+I'm+Imad+Lhannouni+%F0%9F%91%8B;Software+Engineering+Student+%4042;Aspiring+DevOps+Engineer;Learning+Linux%2C+Docker%2C+Kubernetes+on+KodeKloud" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/your-username?tab=followers"><img src="https://img.shields.io/github/followers/your-username?style=for-the-badge"></a>
-  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-you@example.com-7c3aed?style=for-the-badge"></a>
-  <a href="https://www.linkedin.com/in/linkedin-handle/"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/ilhannou?tab=followers"><img src="https://img.shields.io/github/followers/ilhannou?style=for-the-badge"></a>
+  <a href="mailto:lhannouni05@gmail.com"><img src="https://img.shields.io/badge/Email-lhannouni05%40gmail.com-7c3aed?style=for-the-badge"></a>
+  <a href="https://www.linkedin.com/in/imad-lhannouni-b2429a340/"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 ---
 
 ## 👋 About Me
-- 🎓 **Software Engineering Student @1337 (42 Network)**
-- 🎯 Goal: **Create my own company**
-- 🔭 Currently: **Working on J2EE Club Manager, GMod Addons, and QR Generator**
+- 🎓 **Software Engineering Student @1337 (42 Network) · Aspiring DevOps Engineer**
+- 🎯 Goal: **Build a strong DevOps foundation to launch my own company and deliver scalable, cloud-native solutions**
+- 🔭 Currently: **Working on 42 Projects (Minishell, Born2beroot). Practicing DevOps pipelines and containerization on KodeKloud**
 
 ---
 
 ## 🚀 Featured Projects
-- **QR Generator** → Responsive website to generate, manage, and validate QR codes  
-  🔗 [View Project](https://github.com/your-username/qr-generator)
+- **Minishell** → Unix-like shell implementation from scratch (C, processes, pipes, signals)  
+  🔗 [View Project](https://github.com/Imadlhannouni/minishell)
 
-- **Club Manager** → School club management app with events & admin panel (J2EE)  
-  🔗 [View Project](https://github.com/your-username/club-manager)
-
-- **GMod Auras** → Visual/audio aura effects addon for Garry’s Mod  
-  🔗 [View Project](https://github.com/your-username/gmod-auras)
+- **Born2beroot** → System administration & virtualization project focusing on Linux security, users, and services  
+  🔗 [View Project](https://github.com/Imadlhannouni/born2beroot)
 
 ---
 
 ## 🧰 Tech Stack
-`Java` · `Spring` · `PostgreSQL` · `Lua` · `JavaScript` · `Docker` · `Linux`
+`C` · `Java` · `C++` · `MySql` · `Docker` · `Linux`
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=transparent&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=transparent" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ilhannou&show_icons=true&theme=transparent&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilhannou&layout=compact&theme=transparent" />
 </p>
 
 ---
 
 ## 🤝 Connect
-📫 you@example.com  
-🐙 [github.com/your-username](https://github.com/your-username)  
-💼 [linkedin.com/in/linkedin-handle](https://linkedin.com/in/linkedin-handle)
+📫 lhannouni05@gmail.com  
+🐙 [github.com/ilhannou](https://github.com/ilhannou)  
+💼 [LinkedIn](https://www.linkedin.com/in/imad-lhannouni-b2429a340/)
