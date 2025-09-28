@@ -34,7 +34,9 @@ PROJECT2_LINK=https://github.com/Imadlhannouni/born2beroot
 - 🎓 **Software Engineering Student @1337 (42 Network) · Aspiring DevOps Engineer**
 - 🎯 Goal: **Build a strong DevOps foundation to launch my own company and deliver scalable, cloud-native solutions**
 - 🔭 Currently: **Working on 42 Projects (Minishell, Born2beroot). Practicing DevOps pipelines and containerization on KodeKloud**
+  
 [![ilhannou's 42 stats](https://badge.mediaplus.ma/black/ilhannou)](https://github.com/oakoudad/badge42)
+
 ---
 
 ## 🚀 Featured Projects
