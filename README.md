@@ -23,7 +23,7 @@ PROJECT2_LINK=https://github.com/Imadlhannouni/born2beroot
 </p>
 
 <p align="center">
-  <a href="https://github.com/ilhannou?tab=followers"><img src="https://img.shields.io/github/followers/ilhannou?style=for-the-badge"></a>
+  <a href="https://github.com/Imadlhannouni?tab=followers"><img src="https://img.shields.io/github/followers/Imadlhannouni?style=for-the-badge"></a>
   <a href="mailto:lhannouni05@gmail.com"><img src="https://img.shields.io/badge/Email-lhannouni05%40gmail.com-7c3aed?style=for-the-badge"></a>
   <a href="https://www.linkedin.com/in/imad-lhannouni-b2429a340/"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
@@ -53,8 +53,8 @@ PROJECT2_LINK=https://github.com/Imadlhannouni/born2beroot
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ilhannou&show_icons=true&theme=transparent&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilhannou&layout=compact&theme=transparent" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Imadlhannouni&show_icons=true&theme=transparent&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imadlhannouni&layout=compact&theme=transparent" />
 </p>
 
 ---
