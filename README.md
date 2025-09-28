@@ -61,5 +61,5 @@ PROJECT2_LINK=https://github.com/ilhannou/42-born2beroot
 
 ## 🤝 Connect
 📫 lhannouni05@gmail.com  
-🐙 [github.com/ilhannou](https://github.com/ilhannou)  
+🐙 [github.com/Imadlhannouni](https://github.com/Imadlhannouni)  
 💼 [LinkedIn](https://www.linkedin.com/in/imad-lhannouni-b2429a340/)
