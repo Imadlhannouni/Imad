@@ -11,11 +11,11 @@ PROFILE_NOW=Working on 42 Projects. Practicing DevOps pipelines and containeriza
 
 PROJECT1_NAME=Minishell
 PROJECT1_DESC=Unix-like shell implementation from scratch (C, processes, pipes, signals).
-PROJECT1_LINK=https://github.com/Imadlhannouni/42-minishell
+PROJECT1_LINK=https://github.com/Imadlhannouni/minishell
 
 PROJECT2_NAME=Born2beroot
 PROJECT2_DESC=System administration & virtualization project focusing on Linux security, users, and services.
-PROJECT2_LINK=https://github.com/Imadlhannouni/42-born2beroot
+PROJECT2_LINK=https://github.com/Imadlhannouni/born2beroot
 ====================================================================== -->
 
 <p align="center">
